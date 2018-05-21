@@ -6,3 +6,5 @@
 ##Remove a song from a playlist
 ##Share playlists with your friends
 ##Play a song/playlist!
+
+https://slotify-nathan.herokuapp.com/register.php
